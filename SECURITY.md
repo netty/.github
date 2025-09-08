@@ -16,8 +16,9 @@ We maintain the most recent minor version of our artifacts for each supported ma
 version. Please note this includes neither pre-releases nor the major versions that
 reached their end-of-life.
 
-As of May 2023, the following Netty versions receive the security updates:
+As of September 2025, the following Netty versions receive the security updates:
 
+- 4.2
 - 4.1
 
 The following Netty versions have reached their end-of-life, and thus
